@@ -6,6 +6,11 @@ P2P Serverless Multiplayer Star fighter Game.
 
 # Sample Gameplay Youtube Video
 Click image below to play</br></br>
-[![Gameplay](https://img.youtube.com/vi/-Q1zNmjGZCE/0.jpg)](https://www.youtube.com/watch?v=-Q1zNmjGZCE)
+
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-Q1zNmjGZCE" target="_blank">
+ <img src="http://img.youtube.com/vi/-Q1zNmjGZCE/0.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 # Stay tuned..
