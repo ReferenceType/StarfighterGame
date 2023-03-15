@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 450f80a35990ae3479b09c06f77d0e9b
+timeCreated: 1464258828
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HSS_G8-AR_Node
+    100004: HSS_G8-BA_Module
+    100006: HSS_G8-BE_Arrays
+    100008: HSS_G8-BK_Module
+    100010: HSS_G8-BR_Module
+    100012: HSS_G8-BT_Module
+    100014: HSS_G8-Core
+    100016: HSS_G8-Docking_Bay
+    100018: HSS_G8-RA_Containers
+    100020: HSS_G8-SK_Module
+    400000: //RootNode
+    400002: HSS_G8-AR_Node
+    400004: HSS_G8-BA_Module
+    400006: HSS_G8-BE_Arrays
+    400008: HSS_G8-BK_Module
+    400010: HSS_G8-BR_Module
+    400012: HSS_G8-BT_Module
+    400014: HSS_G8-Core
+    400016: HSS_G8-Docking_Bay
+    400018: HSS_G8-RA_Containers
+    400020: HSS_G8-SK_Module
+    2300000: HSS_G8-AR_Node
+    2300002: HSS_G8-BA_Module
+    2300004: HSS_G8-BE_Arrays
+    2300006: HSS_G8-BK_Module
+    2300008: HSS_G8-BR_Module
+    2300010: HSS_G8-BT_Module
+    2300012: HSS_G8-Core
+    2300014: HSS_G8-Docking_Bay
+    2300016: HSS_G8-RA_Containers
+    2300018: HSS_G8-SK_Module
+    3300000: HSS_G8-AR_Node
+    3300002: HSS_G8-BA_Module
+    3300004: HSS_G8-BE_Arrays
+    3300006: HSS_G8-BK_Module
+    3300008: HSS_G8-BR_Module
+    3300010: HSS_G8-BT_Module
+    3300012: HSS_G8-Core
+    3300014: HSS_G8-Docking_Bay
+    3300016: HSS_G8-RA_Containers
+    3300018: HSS_G8-SK_Module
+    4300000: HSS_G8-BA_Module
+    4300002: HSS_G8-Docking_Bay
+    4300004: HSS_G8-Core
+    4300006: HSS_G8-RA_Containers
+    4300008: HSS_G8-BR_Module
+    4300010: HSS_G8-BE_Arrays
+    4300012: HSS_G8-BK_Module
+    4300014: HSS_G8-AR_Node
+    4300016: HSS_G8-BT_Module
+    4300018: HSS_G8-SK_Module
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

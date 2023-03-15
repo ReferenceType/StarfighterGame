@@ -1,0 +1,13 @@
+[FORGE3D] BATTLESHIPS Substance Painter Sources
+-----------------------------------------------
+
+* Why there are no Substance Painter source files included?
+
+Unfortunately the size of the Unity package has grown over 1+ Gb with all Substance Sources, so we decided to move the sources away from the package.
+
+* Where do I get Substance Painter sources?
+
+You can get the download link by sending a direct request with your Order Id (https://assetstore.unity.com/orders) at support@forge3d.com
+
+
+

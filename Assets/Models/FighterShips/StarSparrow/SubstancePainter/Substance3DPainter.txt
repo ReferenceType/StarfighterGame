@@ -1,0 +1,3 @@
+Substance 3D Painter is an external software which is unrelated to Unity, it enables painting textures in 3D and it is NOT a Unity plugin or script.
+
+These Substance 3D Painter files have been uploaded only for developers who already own a copy of Substnace 3D Painter and due to their requests. There is no way to open these Substance 3D Painter files inside of Unity; you will be unable to make any use of this file if you do not have Substance Painter.

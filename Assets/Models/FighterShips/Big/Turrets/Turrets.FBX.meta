@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 7025fdedf139e64489e6eeea701f4c7c
+timeCreated: 1514290851
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GunBallistic
+    100002: GunGatling
+    100004: GunLaser
+    100006: GunRail
+    100008: TurretHeavy
+    100010: TurretLight
+    100012: TurretMedium
+    100014: //RootNode
+    100016: TurretSwiwelHeavy
+    100018: TurretSwiwelLight
+    100020: TurretSwiwelMedium
+    400000: GunBallistic
+    400002: GunGatling
+    400004: GunLaser
+    400006: GunRail
+    400008: TurretHeavy
+    400010: TurretLight
+    400012: TurretMedium
+    400014: //RootNode
+    400016: TurretSwiwelHeavy
+    400018: TurretSwiwelLight
+    400020: TurretSwiwelMedium
+    2300000: GunBallistic
+    2300002: GunGatling
+    2300004: GunLaser
+    2300006: GunRail
+    2300008: TurretHeavy
+    2300010: TurretLight
+    2300012: TurretMedium
+    2300014: TurretSwiwelHeavy
+    2300016: TurretSwiwelLight
+    2300018: TurretSwiwelMedium
+    3300000: GunBallistic
+    3300002: GunGatling
+    3300004: GunLaser
+    3300006: GunRail
+    3300008: TurretHeavy
+    3300010: TurretLight
+    3300012: TurretMedium
+    3300014: TurretSwiwelHeavy
+    3300016: TurretSwiwelLight
+    3300018: TurretSwiwelMedium
+    4300000: TurretLight
+    4300002: TurretSwiwelLight
+    4300004: TurretMedium
+    4300006: TurretSwiwelMedium
+    4300008: TurretHeavy
+    4300010: TurretSwiwelHeavy
+    4300012: GunBallistic
+    4300014: GunGatling
+    4300016: GunRail
+    4300018: GunLaser
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

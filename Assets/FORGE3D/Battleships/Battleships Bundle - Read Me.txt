@@ -1,0 +1,26 @@
+**FORGE3D BATTLESHIPS v2.0**
+
+Thank you for purchasing Battleships!
+
+>>> How to fix Shader CustomEditor warning?
+
+ | Could not create a custom UI for the shader 'FORGE3D/Battleships/Turret Mobile'. The shader has the following: 'CustomEditor = ASEMaterialInspector'. Does the custom editor specified include its namespace? And does the class either derive from ShaderGUI or MaterialEditor?
+
+This warning is completely harmless, which means you don't have Amplify Shader Editor installed. To fix the warning, please comment this line at the end of all shader files (Assets/FORGE3D/Battleships/Shaders/):
+
+// CustomEditor "ASEMaterialInspector"
+
+---
+
+* Have a question or need help? - http://forge3d.com/contact/
+If you have an urgent problem that is not documented here, please reach us out directly via the Contact Form. 
+For non-urgent questions get in touch in the Technical Support thread (http://forum.forge3d.com/c/tech-support) and we will get back to your as soon as we can!
+
+* Known Issues - http://forum.forge3d.com/c/known-issues
+Please check the list of known issues and solutions in the Known Issues thread. Not all problems are necessarily posted there, but we do our best to post updates promptly.
+
+* Found a bug? - http://forum.forge3d.com/c/bug-report
+Please submit a case in the Bug Report thread. We will be there to squash the bug away!
+
+* Want to share your thoughts? - http://forum.forge3d.com/t/feedback-and-suggestions/29
+We sincerely appreciate your time to provide us with comments, feedback, and suggestions. There are always things that we could do better. Please share your ideas in the Feedback and Suggestions thread.
