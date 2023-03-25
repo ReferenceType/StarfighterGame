@@ -9,8 +9,8 @@ Click image below to play</br>
 
 - Latest version
 </br>
+
 [![](https://markdown-videos.deta.dev/youtube/EKfadQ2StN8)](https://youtu.be/EKfadQ2StN8)
-</br>
 
 - First version</br>
 
