@@ -7,14 +7,13 @@ P2P Serverless Multiplayer Star fighter Game.
 # Sample Gameplay Youtube Video
 Click image below to play</br>
 
-- Latest version
-</br>
-
 [![](https://markdown-videos.deta.dev/youtube/EKfadQ2StN8)](https://youtu.be/EKfadQ2StN8)
 
-- First version</br>
+# Upcoming Features & Extensions
+- Different defensive/offensive features depending on ship type
+- Ship customisation
+- Map selection
+- Team deathmatch
+- Coop vs AI
+- Space Rafting
 
-[![](https://markdown-videos.deta.dev/youtube/-Q1zNmjGZCE)](https://youtu.be/-Q1zNmjGZCE)
-
-
-# Stay tuned..
