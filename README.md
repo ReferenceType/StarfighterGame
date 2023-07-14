@@ -5,9 +5,9 @@ P2P Serverless Multiplayer Star fighter Game.
 - Game does not require for authorative server instance. 
 
 # Sample Gameplay Youtube Video
-Click image below to play</br>
+Click below for gameplay video from deathmatch between my work collegues</br>
 
-[![](https://markdown-videos.deta.dev/youtube/EKfadQ2StN8)](https://youtu.be/EKfadQ2StN8)
+[Gameplay Video](https://www.youtube.com/shorts/Xc4PD_t8Tys)
 
 # Upcoming Features & Extensions
 - Different defensive/offensive features depending on ship type
