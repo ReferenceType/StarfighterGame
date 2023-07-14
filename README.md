@@ -7,7 +7,7 @@ P2P Serverless Multiplayer Star fighter Game.
 # Sample Gameplay Youtube Video
 Click below for gameplay video from deathmatch between my work collegues</br>
 
-[Gameplay Video](https://www.youtube.com/shorts/Xc4PD_t8Tys)
+[Gameplay Video](https://www.youtube.com/watch?v=EKfadQ2StN8)
 
 # Upcoming Features & Extensions
 - Different defensive/offensive features depending on ship type
